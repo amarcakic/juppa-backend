@@ -1,0 +1,7 @@
+{
+  "name": "juppa-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python manage.py runserver 0.0.0.0:5000"
+  }
+}
